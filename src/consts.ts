@@ -2,7 +2,7 @@ import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
   NAME: "Jordan Ayotte",
-  EMAIL: "jordan.ayotte1999@gmail.com",
+  EMAIL: "jordanayotte13@outlook.com",
   NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_WORKS_ON_HOMEPAGE: 2,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
@@ -19,7 +19,7 @@ export const BLOG: Metadata = {
 };
 
 export const WORK: Metadata = {
-  TITLE: "Work",
+  TITLE: "Experience",
   DESCRIPTION: "Where I have worked and what I have done.",
 };
 
@@ -30,15 +30,11 @@ export const PROJECTS: Metadata = {
 
 export const SOCIALS: Socials = [
   { 
-    NAME: "twitter-x",
-    HREF: "https://twitter.com/markhorn_dev",
-  },
-  { 
     NAME: "github",
     HREF: "https://github.com/joayo13"
   },
   { 
     NAME: "linkedin",
-    HREF: "https://www.linkedin.com/in/markhorn-dev",
+    HREF: "https://linkedin.com/in/jordan-a-b90747211",
   }
 ];

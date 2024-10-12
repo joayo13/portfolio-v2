@@ -126,10 +126,10 @@ Add an quick link using the `<url>` pattern.
 Add an email link using the `<emailaddress>` pattern.
 
 ```md
-Email me at <markhorn.dev@gmail.com> using your mail app.
+Email me at <jordanayotte13@outlook.com> using your mail app.
 ```
 
-Email me at <markhorn.dev@gmail.com> using your mail app.
+Email me at <jordanayotte13@outlook.com> using your mail app.
 
 ---
 
