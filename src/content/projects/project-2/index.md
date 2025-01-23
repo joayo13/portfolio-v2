@@ -1,16 +1,14 @@
 ---
-title: "Godot Guru"
-description: "E-commerce website built with Svelte and the Stripe API."
-date: "July 26 2024"
-demoURL: "https://godotguru.netlify.app"
-repoURL: "https://github.com/joayo13/godot-guru"
+title: "W.A.I.T"
+description: "Open Source Web Accessibility Tutorial, complete with quizzes and interactive modules."
+date: "Jan 23 2025"
+demoURL: "https://accessibilitytutorial.netlify.app"
+repoURL: "https://github.com/joayo13/wait"
 ---
 
-![Godot Guru](/godot-guru.png)
+![W.A.I.T](/wait.png)
 
-Godot Guru uses Stripe API with SvelteKit and Typescript to deliver a fast, secure e-commerce website.
-
-Designed to be quick, accessible and achieves 100/100 Lighthouse scores.
+W.A.I.T is an open-source training module designed to teach newbies and intermediate developers web accessibility. I made it to address the fact that all accessiblity tutorials out there are just a bunch of reading. This is designed to make learning the principles more enjoyable and interactive.
 
 ## 📋 Features
 
@@ -19,4 +17,4 @@ Designed to be quick, accessible and achieves 100/100 Lighthouse scores.
 - ✅ SEO-friendly
 - ✅ Typesafe
 - ✅ Light/Dark Theme
-- ✅ Animated UI
+- ✅ Quizzes and Interactive Modules
