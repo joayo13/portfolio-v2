@@ -8,7 +8,9 @@ repoURL: "https://github.com/joayo13/Locadex"
 
 ![Locadex Map View](/locadex.png)
 
-This app was designed to efficiently find places (gyms, libraries, parks etc.) near the user. There are platforms which somewhat do this already like TripAdvisor. Except they do not let you customize and filter the results with the same precision as this application. I have also designed it to use as little data as possible, so if you decide to use the mobile version, you can safely use your data without it being taken up the way it would be with other applications. If you want to, you can download it to your device to have a more native app-like experience. Feel free to copy the source code and use it however you'd like, I have documented how you can set up for own project in my repo!
+This app was designed to easily get the top-rated place type you're looking for. It returns the highest rated place within what distance you'd like, using a bayesian weighted formula to get top-rated result. (same formula used by imdb to get their top-rated list). It's built with React and uses Googles APIS to create the in-app stylized map and to get the places data.
+
+If you want to, you can download it to your device to have a more native app-like experience as it's a PWA. Feel free to copy the source code and use it however you'd like, I have documented how you can set up for own project in my repo!
 
 ## 📋 Features
 
